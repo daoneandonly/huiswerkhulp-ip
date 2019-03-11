@@ -1,0 +1,10 @@
+* {
+  font-family: sans-serif;
+}
+
+section {
+  padding: 1.5em;
+  width: 35%;
+  margin: 10% auto;
+  border: 0.1em solid grey;
+}
