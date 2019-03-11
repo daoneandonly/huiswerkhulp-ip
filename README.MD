@@ -1,5 +1,7 @@
 # Huiswerkhulp Inleiding Programmeren
 
+This is a repo for students of CMD who struggle with the subject Inleiding Programmeren. I've created a few folders in which I show examples of code, with extensive comments and live demo page.
+
 ## Linkjes
 
 - [Variables](https://daoneandonly.github.io/huiswerkhulp-ip/variables)
